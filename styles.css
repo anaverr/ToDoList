@@ -64,10 +64,10 @@ button {
 
 .main__list {
     background-color: #818a92;
-    margin-right: 100px;
     width: 200px;
     height: 400px;
     padding: 10px;
+    border: 1px solid black;
 }
 
 .main__list-header {
